@@ -1,4 +1,4 @@
-##CTF MetaRed Mexico Anuies-TIC 2024
+## CTF MetaRed Mexico Anuies-TIC 2024
 
 CTF en el que participé en octubre del 2024, con el equipo **nub3cit4s-arg**. Formado por alumnos de la UNLP.
 
