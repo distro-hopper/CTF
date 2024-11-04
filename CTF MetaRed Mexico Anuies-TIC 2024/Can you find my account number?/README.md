@@ -16,4 +16,4 @@ Los puntos clave para avanzar en la resolución se encuentran en los strings del
 
 El otro está relacionado con lo que indica la descripción, el número de la cuenta guardado en un GIF, aunque no parece haber algún GIF en el archivo:
 
-![gif_miss]()
+![gif_miss](https://github.com/distro-hopper/CTF/blob/main/CTF%20MetaRed%20Mexico%20Anuies-TIC%202024/Can%20you%20find%20my%20account%20number%3F/media/gif_miss.png?raw=true)
